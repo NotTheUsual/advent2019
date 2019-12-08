@@ -8,6 +8,7 @@
     "jest": "^24.9.0"
   },
   "scripts": {
+    "day": "./new-day.sh",
     "test": "jest --watch"
   },
   "author": "",
