@@ -8,5 +8,5 @@ else
   mkdir day$1
   touch day$1/day$1a.js
   touch day$1/day$1a.spec.js
-  touch input.txt
+  touch day$1/input.txt
 fi
